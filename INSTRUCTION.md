@@ -15,7 +15,7 @@ yarn install
 ## Install dependency for iOS
 
 ```bash
-pod install
+cd ios && pod install && cd ..
 ```
 
 ## Install third party for React Native
